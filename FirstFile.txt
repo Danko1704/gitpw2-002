@@ -1,5 +1,0 @@
-Hola Mundo
-
-Imprime un numero
-
-Imprime otro numero
