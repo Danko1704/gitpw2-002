@@ -1,0 +1,6 @@
+leer archivo data
+Iterar los registros del json
+    Mostrar en pantalla
+    Contar registros
+
+Imprimir numero de registros
