@@ -1,0 +1,3 @@
+leer archivo data
+Iterar los registros del json
+    Mostrar en pantalla 
