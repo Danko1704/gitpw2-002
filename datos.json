@@ -1,4 +1,10 @@
-{
+[
+  {
     "nombre": "Enrique",
     "apellido": "Tolentino"
-}
+  },
+  {
+      "nombre": "Enrique2",
+      "apellido": "Tolentino2"
+  }
+]
